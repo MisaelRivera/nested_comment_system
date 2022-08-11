@@ -1,0 +1,26 @@
+{
+  "name": "nested_comments_system_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaelRivera/nested_comment_system.git"
+  },
+  "keywords": [
+    "comments",
+    "reddit"
+  ],
+  "author": "Misael Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisaelRivera/nested_comment_system/issues"
+  },
+  "homepage": "https://github.com/MisaelRivera/nested_comment_system#readme",
+  "dependencies": {
+
+  }
+}
